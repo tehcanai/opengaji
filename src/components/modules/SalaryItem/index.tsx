@@ -2,10 +2,10 @@
 const SalaryItem = () => {
     return (
         <div class="border border-black p-4 bg-white rounded-md shadow-md">
-            <h1 class="font-bold text-xl">Software Engineer</h1>
+            <h1 class="font-bold text-xl">Code Monkey</h1>
             <div class="flex flex-row space-x-2">
                 <p class="font-bold">Salary:</p>
-                <p>RM 3900</p>
+                <p>RM ####</p>
             </div>
             <div class="flex flex-row space-x-2">
                 <p class="font-bold">YOE:</p>
