@@ -76,3 +76,13 @@
   }
 
 body { font-family: system-ui }
+
+#index {
+    margin-left: 48px;
+    margin-right: 48px;
+
+    @media screen and (min-width: 640px) {
+        margin-left: 12rem;
+        margin-right: 12rem;
+    }
+}
